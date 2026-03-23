@@ -1,0 +1,16 @@
+a pasta 15 4/21/22
+c 3/1/22
+c 3/30/22
+d bread 2
+a cereal 10 8/15/22
+c 4/15/22
+a soup 10 5/3/22
+a soup 20 5/1/22
+a meat 10 4/20/22
+c 5/1/22
+d condiment 6
+d jelly/jam/pb 20
+d tuna 35
+c 8/30/22
+a water 24 1/1/23
+d water 10
